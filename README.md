@@ -66,5 +66,9 @@ In addition to the above formation the election commission has requested some ad
  Denver county has the largest number of votes.
  
  
+ Below is the screen shot of the code run from the terminal for reference 
+ 
+ ![alt image] (https://github.com/rtippana1/Election_Analysis/blob/main/Terminal%20Results.png)
+ 
   
 
