@@ -44,6 +44,27 @@ The analysis of the election show that:
  
  ## Challenge Overview
  
+In addition to the above formation the election commission has requested some additional data to complete the audit:
+
+- Calculate the voter turnout for each county
+
+- Calculate the percentage of votes from each county out of the total count
+
+- Determine the county with the highest turnout
+
+ 
  ## Challenge Summary
+ 
+ Below is the county wise details
+ 
+ - Jefferson: 10.5% (38,855)
+ 
+ - Denver: 82.8% (306,055)
+ 
+ - Arapahoe: 6.7% (24,801)
+ 
+ - Dnver county has the largest number of votes.
+ 
+ 
   
 
