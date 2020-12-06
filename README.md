@@ -63,7 +63,7 @@ In addition to the above formation the election commission has requested some ad
  
  - Arapahoe: 6.7% (24,801)
  
- - Dnver county has the largest number of votes.
+ Denver county has the largest number of votes.
  
  
   
